@@ -6,12 +6,12 @@
       <description>Most recent changes with links to updates.</description>
       <language>en</language>
          <item>
-            <title>Version 1.6</title>
+            <title>Version 1.7</title>
             <sparkle:releaseNotesLink>
-        		http://kaomojiapp.com/download/1.6.html
+        		http://kaomojiapp.com/download/1.7.html
     		</sparkle:releaseNotesLink>
-            <pubDate>Wed, 5 Dec 2012 01:03:11 +0000</pubDate>
-           <enclosure url="http://kaomojiapp.com/download/Kaomoji.zip" sparkle:version="1.6" length="1228103" type="application/octet-stream" sparkle:dsaSignature="MCwCFDYPZfUhCcxpoqi2BwPvZSt2ev71AhR/pPTSRwZ7b5vou9r6eP80eMCOuw==" />
+            <pubDate>Wed, 30 Apr 2014 06:16:11 +0000</pubDate>
+            <enclosure url="http://kaomojiapp.com/download/Kaomoji.zip" sparkle:version="1.7" length="1293528" type="application/octet-stream" sparkle:dsaSignature="MCwCFEkogXXaTdC72P5MwAw13OaBWBfIAhRLJWkDeblpuNbZPfD6mhY8lV2ggw=="/>
          </item>
    </channel>
 </rss>
