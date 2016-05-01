@@ -11,7 +11,7 @@
         		https://kaomojiformac.github.io/download/1.9.html
     		</sparkle:releaseNotesLink>
             <pubDate>Sun, 1 May 2016 13:00:11 +0000</pubDate>
-            <enclosure url="https://kaomojiformac.github.io/download/Kaomoji.zip" sparkle:version="101" sparkle:shortVersionString="1.9" length="2199941" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCpGrsdQe2McjTrMDY1+bMHdxBT0wIUIpEoabW1uq37RMI15I1qeSKLqm8="/>
+            <enclosure url="https://kaomojiformac.github.io/download/Kaomoji.zip" sparkle:version="101" sparkle:shortVersionString="1.9" length="2199941" type="application/octet-stream" sparkle:dsaSignature="MCwCFGW2fYTZGXKChPMoOaMBSQ2BK1/UAhQvfSMOt7mzj+gO65mmDx7IdNP5DQ=="/>
          </item>
    </channel>
 </rss>
