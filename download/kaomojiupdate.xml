@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
    <channel>
       <title>Kaomoji for Mac Changelog</title>
-      <link>http://kaomojiapp.com/download/kaomojiupdate.xml</link>
+      <link>https://kaomojiformac.github.io/download/kaomojiupdate.xml</link>
       <description>Most recent changes with links to updates.</description>
       <language>en</language>
          <item>
-            <title>Version 1.8</title>
+            <title>Version 1.9</title>
             <sparkle:releaseNotesLink>
-        		http://kaomojiapp.com/download/1.8.html
+        		https://kaomojiformac.github.io/download/1.9.html
     		</sparkle:releaseNotesLink>
-            <pubDate>Wed, 22 Dec 2014 13:00:11 +0000</pubDate>
-            <enclosure url="http://kaomojiapp.com/download/Kaomoji.zip" sparkle:version="1.8" length="2108380" type="application/octet-stream" sparkle:dsaSignature="MCwCFAdm76ga8C9pjGIna2AflYRHnEaYAhRkrYA4uVlQF+a19e1y49ZlovD7aw=="/>
+            <pubDate>Sun, 1 May 2016 13:00:11 +0000</pubDate>
+            <enclosure url="https://kaomojiformac.github.io/download/Kaomoji.zip" sparkle:version="104" sparkle:shortVersionString="1.9" length="2195921" type="application/octet-stream" sparkle:dsaSignature="MC4CFQCVCo5d9HPs7aTZVW26vh6bX25RmgIVAJ64ww39BvKKJD75LIj2nOzCk13U"/>
          </item>
    </channel>
 </rss>
